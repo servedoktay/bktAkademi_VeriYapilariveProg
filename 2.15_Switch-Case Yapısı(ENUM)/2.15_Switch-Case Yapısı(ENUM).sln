@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.15_Switch-Case Yapısı(ENUM)", "2.15_Switch-Case Yapısı(ENUM).csproj", "{C2CD80A3-0A0F-43FA-8D1B-7A10143EB8FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2CD80A3-0A0F-43FA-8D1B-7A10143EB8FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2CD80A3-0A0F-43FA-8D1B-7A10143EB8FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2CD80A3-0A0F-43FA-8D1B-7A10143EB8FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2CD80A3-0A0F-43FA-8D1B-7A10143EB8FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F62B4F28-A000-496F-8D6C-89717F40098B}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\CASPER\source\repos\2.20_Çok Boyutlu Diziler\bin\Debug\2.20_Çok Boyutlu Diziler.exe.config
+C:\Users\CASPER\source\repos\2.20_Çok Boyutlu Diziler\bin\Debug\2.20_Çok Boyutlu Diziler.exe
+C:\Users\CASPER\source\repos\2.20_Çok Boyutlu Diziler\bin\Debug\2.20_Çok Boyutlu Diziler.pdb
+C:\Users\CASPER\source\repos\2.20_Çok Boyutlu Diziler\obj\Debug\2.20_Çok Boyutlu Diziler.csproj.AssemblyReference.cache
+C:\Users\CASPER\source\repos\2.20_Çok Boyutlu Diziler\obj\Debug\2.20_Çok Boyutlu Diziler.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\source\repos\2.20_Çok Boyutlu Diziler\obj\Debug\2.20_Çok Boyutlu Diziler.exe
+C:\Users\CASPER\source\repos\2.20_Çok Boyutlu Diziler\obj\Debug\2.20_Çok Boyutlu Diziler.pdb
