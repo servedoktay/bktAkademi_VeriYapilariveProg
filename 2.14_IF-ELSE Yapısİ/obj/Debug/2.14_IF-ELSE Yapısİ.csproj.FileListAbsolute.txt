@@ -1,0 +1,7 @@
+C:\Users\CASPER\source\repos\2.14_IF-ELSE Yapısİ\bin\Debug\2.14_IF-ELSE Yapısİ.exe.config
+C:\Users\CASPER\source\repos\2.14_IF-ELSE Yapısİ\bin\Debug\2.14_IF-ELSE Yapısİ.exe
+C:\Users\CASPER\source\repos\2.14_IF-ELSE Yapısİ\bin\Debug\2.14_IF-ELSE Yapısİ.pdb
+C:\Users\CASPER\source\repos\2.14_IF-ELSE Yapısİ\obj\Debug\2.14_IF-ELSE Yapısİ.csproj.AssemblyReference.cache
+C:\Users\CASPER\source\repos\2.14_IF-ELSE Yapısİ\obj\Debug\2.14_IF-ELSE Yapısİ.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\source\repos\2.14_IF-ELSE Yapısİ\obj\Debug\2.14_IF-ELSE Yapısİ.exe
+C:\Users\CASPER\source\repos\2.14_IF-ELSE Yapısİ\obj\Debug\2.14_IF-ELSE Yapısİ.pdb
