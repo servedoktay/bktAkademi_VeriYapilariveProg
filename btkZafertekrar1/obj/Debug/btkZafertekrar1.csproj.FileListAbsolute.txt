@@ -1,0 +1,7 @@
+C:\Users\CASPER\source\repos\btkZafertekrar1\bin\Debug\btkZafertekrar1.exe.config
+C:\Users\CASPER\source\repos\btkZafertekrar1\bin\Debug\btkZafertekrar1.exe
+C:\Users\CASPER\source\repos\btkZafertekrar1\bin\Debug\btkZafertekrar1.pdb
+C:\Users\CASPER\source\repos\btkZafertekrar1\obj\Debug\btkZafertekrar1.csproj.AssemblyReference.cache
+C:\Users\CASPER\source\repos\btkZafertekrar1\obj\Debug\btkZafertekrar1.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\source\repos\btkZafertekrar1\obj\Debug\btkZafertekrar1.exe
+C:\Users\CASPER\source\repos\btkZafertekrar1\obj\Debug\btkZafertekrar1.pdb
