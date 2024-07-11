@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.12_Diziler ve Alternatif Dizi Oluşturma Yaklaşımları", "3.12_Diziler ve Alternatif Dizi Oluşturma Yaklaşımları.csproj", "{DA827504-3D51-4765-80F8-E70981A09878}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA827504-3D51-4765-80F8-E70981A09878}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA827504-3D51-4765-80F8-E70981A09878}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA827504-3D51-4765-80F8-E70981A09878}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA827504-3D51-4765-80F8-E70981A09878}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54B56B87-5A14-419A-BA74-8E7CBE67DAAE}
+	EndGlobalSection
+EndGlobal

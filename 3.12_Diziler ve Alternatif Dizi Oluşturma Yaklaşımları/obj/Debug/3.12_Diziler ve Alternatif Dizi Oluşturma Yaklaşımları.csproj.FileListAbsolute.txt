@@ -1,0 +1,7 @@
+C:\Users\CASPER\source\repos\3.12_Diziler ve Alternatif Dizi Oluşturma Yaklaşımları\bin\Debug\3.12_Diziler ve Alternatif Dizi Oluşturma Yaklaşımları.exe.config
+C:\Users\CASPER\source\repos\3.12_Diziler ve Alternatif Dizi Oluşturma Yaklaşımları\bin\Debug\3.12_Diziler ve Alternatif Dizi Oluşturma Yaklaşımları.exe
+C:\Users\CASPER\source\repos\3.12_Diziler ve Alternatif Dizi Oluşturma Yaklaşımları\bin\Debug\3.12_Diziler ve Alternatif Dizi Oluşturma Yaklaşımları.pdb
+C:\Users\CASPER\source\repos\3.12_Diziler ve Alternatif Dizi Oluşturma Yaklaşımları\obj\Debug\3.12_Diziler ve Alternatif Dizi Oluşturma Yaklaşımları.csproj.AssemblyReference.cache
+C:\Users\CASPER\source\repos\3.12_Diziler ve Alternatif Dizi Oluşturma Yaklaşımları\obj\Debug\3.12_Diziler ve Alternatif Dizi Oluşturma Yaklaşımları.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\source\repos\3.12_Diziler ve Alternatif Dizi Oluşturma Yaklaşımları\obj\Debug\3.12_Diziler ve Alternatif Dizi Oluşturma Yaklaşımları.exe
+C:\Users\CASPER\source\repos\3.12_Diziler ve Alternatif Dizi Oluşturma Yaklaşımları\obj\Debug\3.12_Diziler ve Alternatif Dizi Oluşturma Yaklaşımları.pdb
