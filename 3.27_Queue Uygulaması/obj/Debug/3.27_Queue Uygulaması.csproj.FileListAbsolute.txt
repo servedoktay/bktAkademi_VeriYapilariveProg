@@ -1,0 +1,7 @@
+C:\Users\CASPER\source\repos\3.27_Queue Uygulaması\bin\Debug\3.27_Queue Uygulaması.exe.config
+C:\Users\CASPER\source\repos\3.27_Queue Uygulaması\bin\Debug\3.27_Queue Uygulaması.exe
+C:\Users\CASPER\source\repos\3.27_Queue Uygulaması\bin\Debug\3.27_Queue Uygulaması.pdb
+C:\Users\CASPER\source\repos\3.27_Queue Uygulaması\obj\Debug\3.27_Queue Uygulaması.csproj.AssemblyReference.cache
+C:\Users\CASPER\source\repos\3.27_Queue Uygulaması\obj\Debug\3.27_Queue Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\source\repos\3.27_Queue Uygulaması\obj\Debug\3.27_Queue Uygulaması.exe
+C:\Users\CASPER\source\repos\3.27_Queue Uygulaması\obj\Debug\3.27_Queue Uygulaması.pdb
