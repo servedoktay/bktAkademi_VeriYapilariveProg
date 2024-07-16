@@ -1,0 +1,7 @@
+C:\Users\CASPER\source\repos\3.31_Dictionary Temelleri\bin\Debug\3.31_Dictionary Temelleri.exe.config
+C:\Users\CASPER\source\repos\3.31_Dictionary Temelleri\bin\Debug\3.31_Dictionary Temelleri.exe
+C:\Users\CASPER\source\repos\3.31_Dictionary Temelleri\bin\Debug\3.31_Dictionary Temelleri.pdb
+C:\Users\CASPER\source\repos\3.31_Dictionary Temelleri\obj\Debug\3.31_Dictionary Temelleri.csproj.AssemblyReference.cache
+C:\Users\CASPER\source\repos\3.31_Dictionary Temelleri\obj\Debug\3.31_Dictionary Temelleri.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\source\repos\3.31_Dictionary Temelleri\obj\Debug\3.31_Dictionary Temelleri.exe
+C:\Users\CASPER\source\repos\3.31_Dictionary Temelleri\obj\Debug\3.31_Dictionary Temelleri.pdb

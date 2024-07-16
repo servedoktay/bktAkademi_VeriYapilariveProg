@@ -1,0 +1,7 @@
+C:\Users\CASPER\source\repos\3.34_SortedDictionary Uygulama\bin\Debug\3.34_SortedDictionary Uygulama.exe.config
+C:\Users\CASPER\source\repos\3.34_SortedDictionary Uygulama\bin\Debug\3.34_SortedDictionary Uygulama.exe
+C:\Users\CASPER\source\repos\3.34_SortedDictionary Uygulama\bin\Debug\3.34_SortedDictionary Uygulama.pdb
+C:\Users\CASPER\source\repos\3.34_SortedDictionary Uygulama\obj\Debug\3.34_SortedDictionary Uygulama.csproj.AssemblyReference.cache
+C:\Users\CASPER\source\repos\3.34_SortedDictionary Uygulama\obj\Debug\3.34_SortedDictionary Uygulama.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\source\repos\3.34_SortedDictionary Uygulama\obj\Debug\3.34_SortedDictionary Uygulama.exe
+C:\Users\CASPER\source\repos\3.34_SortedDictionary Uygulama\obj\Debug\3.34_SortedDictionary Uygulama.pdb
