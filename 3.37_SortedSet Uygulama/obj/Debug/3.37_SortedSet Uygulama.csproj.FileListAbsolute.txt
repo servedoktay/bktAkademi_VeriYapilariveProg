@@ -1,0 +1,7 @@
+C:\Users\CASPER\source\repos\3.37_SortedSet Uygulama\bin\Debug\3.37_SortedSet Uygulama.exe.config
+C:\Users\CASPER\source\repos\3.37_SortedSet Uygulama\bin\Debug\3.37_SortedSet Uygulama.exe
+C:\Users\CASPER\source\repos\3.37_SortedSet Uygulama\bin\Debug\3.37_SortedSet Uygulama.pdb
+C:\Users\CASPER\source\repos\3.37_SortedSet Uygulama\obj\Debug\3.37_SortedSet Uygulama.csproj.AssemblyReference.cache
+C:\Users\CASPER\source\repos\3.37_SortedSet Uygulama\obj\Debug\3.37_SortedSet Uygulama.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\source\repos\3.37_SortedSet Uygulama\obj\Debug\3.37_SortedSet Uygulama.exe
+C:\Users\CASPER\source\repos\3.37_SortedSet Uygulama\obj\Debug\3.37_SortedSet Uygulama.pdb

@@ -1,0 +1,7 @@
+C:\Users\CASPER\source\repos\3.36_SortedSet Temelleri\bin\Debug\3.36_SortedSet Temelleri.exe.config
+C:\Users\CASPER\source\repos\3.36_SortedSet Temelleri\bin\Debug\3.36_SortedSet Temelleri.exe
+C:\Users\CASPER\source\repos\3.36_SortedSet Temelleri\bin\Debug\3.36_SortedSet Temelleri.pdb
+C:\Users\CASPER\source\repos\3.36_SortedSet Temelleri\obj\Debug\3.36_SortedSet Temelleri.csproj.AssemblyReference.cache
+C:\Users\CASPER\source\repos\3.36_SortedSet Temelleri\obj\Debug\3.36_SortedSet Temelleri.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\source\repos\3.36_SortedSet Temelleri\obj\Debug\3.36_SortedSet Temelleri.exe
+C:\Users\CASPER\source\repos\3.36_SortedSet Temelleri\obj\Debug\3.36_SortedSet Temelleri.pdb
