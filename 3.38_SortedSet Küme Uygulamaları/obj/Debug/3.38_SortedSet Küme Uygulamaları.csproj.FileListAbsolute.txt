@@ -1,0 +1,7 @@
+C:\Users\CASPER\source\repos\3.38_SortedSet Küme Uygulamaları\bin\Debug\3.38_SortedSet Küme Uygulamaları.exe.config
+C:\Users\CASPER\source\repos\3.38_SortedSet Küme Uygulamaları\bin\Debug\3.38_SortedSet Küme Uygulamaları.exe
+C:\Users\CASPER\source\repos\3.38_SortedSet Küme Uygulamaları\bin\Debug\3.38_SortedSet Küme Uygulamaları.pdb
+C:\Users\CASPER\source\repos\3.38_SortedSet Küme Uygulamaları\obj\Debug\3.38_SortedSet Küme Uygulamaları.csproj.AssemblyReference.cache
+C:\Users\CASPER\source\repos\3.38_SortedSet Küme Uygulamaları\obj\Debug\3.38_SortedSet Küme Uygulamaları.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\source\repos\3.38_SortedSet Küme Uygulamaları\obj\Debug\3.38_SortedSet Küme Uygulamaları.exe
+C:\Users\CASPER\source\repos\3.38_SortedSet Küme Uygulamaları\obj\Debug\3.38_SortedSet Küme Uygulamaları.pdb
